@@ -1,15 +1,10 @@
-
-https://user-images.githubusercontent.com/114807981/204654030-316388c2-4382-475a-9569-e570de6b8f75.mp4
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+How To Login & Sign up With a Backend– Using Flutter, dart, and MongoDB
 
-A few resources to get you started if this is your first Flutter project:
 
-- Lab: Write your first Flutter app
-- Cookbook: Useful Flutter samples
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br></br>
+https://user-images.githubusercontent.com/114807981/204654030-316388c2-4382-475a-9569-e570de6b8f75.mp4
+
+
